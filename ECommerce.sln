@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECommerce", "ECommerce\ECommerce.csproj", "{7F46D55A-9464-4E07-842D-2DCBAC218E5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibrarySystem", "LibrarySystem\LibrarySystem.csproj", "{BB0FCEC1-A8D5-4951-BD77-725E834845A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HealthCareSystem", "HealthCareSystem\HealthCareSystem.csproj", "{87880480-4FD6-44E9-9AB7-E483DB46F285}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F46D55A-9464-4E07-842D-2DCBAC218E5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F46D55A-9464-4E07-842D-2DCBAC218E5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F46D55A-9464-4E07-842D-2DCBAC218E5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F46D55A-9464-4E07-842D-2DCBAC218E5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB0FCEC1-A8D5-4951-BD77-725E834845A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB0FCEC1-A8D5-4951-BD77-725E834845A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB0FCEC1-A8D5-4951-BD77-725E834845A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB0FCEC1-A8D5-4951-BD77-725E834845A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87880480-4FD6-44E9-9AB7-E483DB46F285}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87880480-4FD6-44E9-9AB7-E483DB46F285}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87880480-4FD6-44E9-9AB7-E483DB46F285}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87880480-4FD6-44E9-9AB7-E483DB46F285}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
